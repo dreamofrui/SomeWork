@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main() {
-	printf("first\n");
+	
+	
+	printf("put one\n");	
+	printf("put one\n");
 	return0;
 }
